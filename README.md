@@ -4,7 +4,7 @@ Search movie demo project  which one contains a search field in the top, and fil
 
 List of Top 25 Movies of All Time,by IMDb
 
-##Learn from project:
+### Learn from project:
 
 In this project I learned DOM Traversing, events and some basics of JS.
 
